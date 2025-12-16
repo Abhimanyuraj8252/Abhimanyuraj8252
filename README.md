@@ -1,114 +1,82 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abhimanyu+Raj+👋;I+Architect+Android+Systems+📱;I+Build+Scalable+Web+Apps+💻;I+Love+Complex+Engineering+⚙️" alt="Typing SVG" />
+  
+  <br/>
 
-# Hi there, I'm Abhimanyu Raj! 👋
-### A Polyglot Software Engineer & Architect
-
-<br/>
-
-<a href="https://github.com/Abhimanyuraj8252">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/abhimanyu-raj-8a853a32a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/sudo_abhimanyu">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://x.com/AbhimanyuR75031">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="mailto:abhimanyuraj134@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://youtube.com/@abhimanyuraj3312">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-
+  <p align="center">
+    <a href="https://github.com/Abhimanyuraj8252">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/abhimanyu-raj-8a853a32a">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/sudo_abhimanyu">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:abhimanyuraj134@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
-
-<br/>
-
-## 💫 About Me
-
-- 🔭 **I’m currently working on:** Architecting a high-performance **Android Media Engine** and building a comprehensive **Full-Stack Utility Platform** (50+ tools).
-- 👯 **I’m looking to collaborate on:** Complex Open-Source Software (OSS), Enterprise-level Android projects, and Scalable SaaS Architectures.
-- 🤝 **I’m looking for help with:** Advanced DevOps pipelines, Microservices orchestration, and optimizing low-level media processing (FFmpeg).
-- 🌱 **I’m currently learning:** Cloud-Native Computing, System Design for Large Scale Distributed Systems, and Advanced AI Integration.
-- 💬 **Ask me about:** Android Internals (Java/Kotlin), Full Stack Development, Software Architecture Patterns (MVVM/Clean Arch), and UI/UX Strategy.
-- ⚡ **Fun fact:** I can switch between debugging a NullPointerException in Android and fixing a CSS Z-index issue in the same hour without losing my mind.
 
 ---
 
-## 💻 Tech Stack
+### 👨‍💻 Executive Summary
+
+> *"Technologist with a bias for action. I don't just write code; I engineer robust solutions. Specializing in high-performance Android ecosystems and full-stack web architectures."*
+
+- 🔭 **Current Focus:** Architecting **Echoryn Media Player** (Advanced Media Engine) & **Quantum Tools** (SaaS Platform).
+- ⚡ **Core Competency:** Bridging the gap between Mobile (Kotlin/Java) and Web (React/Node) with seamless backend orchestration.
+- 🤝 **Open for:** High-impact engineering roles and complex Open Source contributions.
+
+---
+
+### 🚀 Featured Engineering Projects
+
+| **📱 Echoryn Media Player** | **🛠️ Quantum Tools Platform** |
+|:---:|:---:|
+| *Advanced Android Architecture* | *Full-Stack SaaS Utility* |
+| Engineered a high-performance media engine capable of handling 4K playback and complex subtitle rendering. Uses **FFmpeg**, **Kotlin**, and **MVVM Clean Architecture**. | Built a massive utility hub hosting **50+ developer tools**. Optimized for 100% Lighthouse performance score using **Next.js**, **Node.js**, and **Cloud Computing**. |
+| `Kotlin` `Jetpack Compose` `FFmpeg` | `React` `Node.js` `Neo-Brutalism` |
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-**Languages**<br/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend & Mobile**<br/>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**<br/>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud, DevOps & Tools**<br/>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+| **Core & Languages** | **Android Ecosystem** | **Full Stack & Cloud** | **DevOps & Tools** |
+|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=%2361DAFB) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) | ![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=flat&logo=google-play&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<div align="center">
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyuraj8252&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%"/>
+  
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhimanyuraj8252&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyuraj8252&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Abhimanyuraj8252&theme=dark&hide_border=true" height="150" alt="streak graph" />
-<img src="https://github-contributor-stats.vercel.app/api?username=Abhimanyuraj8252&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="contribution graph" />
-
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyuraj8252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyuraj8252&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  </div>
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Abhimanyuraj8252&icon=2&color=13)](https://visitcount.itsvg.in)
-
-<br/>
-
-### 💰 Support My Work
-<a href="https://buymeacoffee.com/NOVANEXUS">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
+  
+### 🤝 Let's Connect
+<p align="center">
+    <a href="https://buymeacoffee.com/NOVANEXUS"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="buymeacoffee" /></a>
+</p>
+<p align="right"> <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=Abhimanyuraj8252&label=VIEWS&style=flat-square&color=blueviolet" alt="Profile Views" /></sub> </p>
 
 </div>
