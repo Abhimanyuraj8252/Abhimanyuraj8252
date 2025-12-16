@@ -29,24 +29,28 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-I am a **High-Performance Software Engineer** focusing on the convergence of Mobile Architecture and Cloud Scalability. My code doesn't just run; it *performs*.
+I am a **High-Performance Software Engineer** focusing on the convergence of Mobile Architecture and Cloud Scalability. My code doesn't just run; it *performs*. 
 
-* 🔭 **Lead Architect:** Currently building **Echoryn Media Player**, an advanced Android engine handling 4K decoding with FFmpeg.
-* 🛠️ **SaaS Founder:** Creator of **Quantum Tools**, a massive utility platform serving developers with 50+ integrated tools.
-* 🧠 **Core Skills:** Low-level Android Optimization, Distributed Microservices, and AI-Driven UI.
+I specialize in **Low-level Android Optimization**, **Distributed Microservices**, and **AI-Driven UI**. My philosophy is simple: **Build reliable, testable, and scalable systems.**
 
-<br/>
+---
 
-<details>
-<summary><b>🚨 CLICK HERE: Why I am the Top 1% Candidate? (Recruiters Read This)</b></summary>
-<br>
-<ul>
-    <li><b>✅ Problem Solver:</b> I fixed a 3-year-old billing algorithm error that saved ₹45,000+ in discrepancies.</li>
-    <li><b>✅ Full Cycle Dev:</b> I don't just write code; I handle DevOps (Docker/CI), Backend (Node), and Frontend (React/Kotlin).</li>
-    <li><b>✅ Design Sense:</b> I understand UX. My apps follow Material 3 and Glassmorphism guidelines.</li>
-    <li><b>✅ Reliability:</b> My code is tested, documented, and production-ready.</li>
-</ul>
-</details>
+### 🔭 Featured Projects
+
+| **Project Name** | **Description** | **Tech Stack** |
+| :--- | :--- | :--- |
+| **🎬 Echoryn Media Player** | **Lead Architect:** An advanced Android engine handling **4K decoding** with FFmpeg integrations. Built for high-performance media rendering. | `Android` `FFmpeg` `Kotlin` |
+| **🛠️ Quantum Tools** | **SaaS Founder:** A massive utility platform serving developers with **50+ integrated tools**. Designed for speed and developer productivity. | `React` `Cloud` `SaaS` |
+
+---
+
+### 🏆 Why I am the Top 1% Candidate?
+> *Recruiters & Engineers, here is the value I bring to the table:*
+
+* **✅ Complex Problem Solving:** * Successfully fixed a **3-year-old billing algorithm error**, saving **₹45,000+** in discrepancies.
+* **✅ Full Cycle Development:** * I handle the entire stack: **DevOps (Docker/CI)**, **Backend (Node/Microservices)**, and **Frontend (React/Kotlin)**.
+* **✅ UI/UX Design Authority:** * My applications strictly follow **Material 3** and **Glassmorphism** guidelines for modern aesthetics.
+* **✅ Production Reliability:** * My code is rigorously tested, documented, and ready for deployment.
 
 ---
 
