@@ -1,79 +1,90 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Abhimanyu%20Raj&fontSize=90&fontAlignY=35&desc=Software%20Architect%20%7C%20Android%20Dev%20%7C%20Full%20Stack%20Wizard&descAlignY=55&descAlign=50)
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=Hi+I'm+Abhimanyu+Raj+👋;Polyglot+Software+Engineer+🖥️;Android+System+Architect+📱;Full+Stack+SaaS+Developer+🚀;Optimizing+Logic+Since+Day+One..._;" alt="Typing SVG" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+🚀;Architecting+Android+Engines+📱;Crafting+Neo-Brutalism+UI+🎨;Optimizing+Backend+Logic+⚙️" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Abhimanyuraj8252">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/abhimanyu-raj-8a853a32a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/sudo_abhimanyu">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:abhimanyuraj134@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/Abhimanyuraj8252">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhimanyu-raj-8a853a32a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sudo_abhimanyu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:abhimanyuraj134@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@abhimanyuraj3312">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>
+---
+
+### ⚡ The Engineering Manifesto
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+I am a **High-Performance Software Engineer** focusing on the convergence of Mobile Architecture and Cloud Scalability. My code doesn't just run; it *performs*.
+
+* 🔭 **Lead Architect:** Currently building **Echoryn Media Player**, an advanced Android engine handling 4K decoding with FFmpeg.
+* 🛠️ **SaaS Founder:** Creator of **Quantum Tools**, a massive utility platform serving developers with 50+ integrated tools.
+* 🧠 **Core Skills:** Low-level Android Optimization, Distributed Microservices, and AI-Driven UI.
+
+<br/>
+
+<details>
+<summary><b>🚨 CLICK HERE: Why I am the Top 1% Candidate? (Recruiters Read This)</b></summary>
+<br>
+<ul>
+    <li><b>✅ Problem Solver:</b> I fixed a 3-year-old billing algorithm error that saved ₹45,000+ in discrepancies.</li>
+    <li><b>✅ Full Cycle Dev:</b> I don't just write code; I handle DevOps (Docker/CI), Backend (Node), and Frontend (React/Kotlin).</li>
+    <li><b>✅ Design Sense:</b> I understand UX. My apps follow Material 3 and Glassmorphism guidelines.</li>
+    <li><b>✅ Reliability:</b> My code is tested, documented, and production-ready.</li>
+</ul>
+</details>
 
 ---
 
-### 👨‍💻 Professional Summary
-
-I am a **Computer Science Engineer** and **Software Architect** with a deep focus on building scalable, high-performance applications. My expertise lies in bridging the gap between complex backend logic and intuitive frontend experiences. I don't just write code; I design ecosystems.
-
-Currently, I am focused on **Advanced Android Development** (handling low-level media processing) and **Full-Stack Web Engineering** (creating massive utility platforms). I thrive in environments where performance, security, and scalability are the top priorities.
-
-* 🔭 **Current R&D:** Architecting the **Echoryn Media Engine** for seamless 4K playback and building **Quantum Tools**, a 50+ tool utility SaaS.
-* 🌱 **Learning Horizon:** Cloud-Native Microservices, Advanced AI/ML Integration in Mobile Apps, and System Design for Distributed Systems.
-* 💬 **Consulting:** Open for discussions on Android Architecture (MVVM/MVI), Cross-Platform strategies, and Neo-Brutalism UI Design.
-
----
-
-### 🧠 My Engineering Philosophy
-
-> *"Software engineering is the art of balancing complexity and simplicity. A good engineer writes code that works; a great engineer writes code that evolves."*
-
-| ⚡ Performance First | 🛡️ Robust Architecture | 🎨 User-Centric Design |
-| :--- | :--- | :--- |
-| Every millisecond counts. I optimize algorithms and database queries to ensure instant load times and battery efficiency in mobile apps. | I strictly follow Clean Architecture, SOLID principles, and Modularization to ensure my codebases are scalable and maintainable. | I believe powerful tools should look beautiful. I implement modern UI paradigms like Glassmorphism and Neo-Brutalism. |
-
----
-
-### 🚀 Flagship Projects
-
-| **Project** | **Description & Tech Stack** |
-| :--- | :--- |
-| **📱 Echoryn Media Player**<br>*(Android Ecosystem)* | A next-generation media player designed for power users.<br>• **Features:** 4K Video Support, Advanced Subtitle Rendering, Background Playback service.<br>• **Tech:** `Kotlin` `Java` `FFmpeg` `Jetpack Compose` `Room DB` `Coroutines` |
-| **🛠️ Quantum Tools**<br>*(SaaS Platform)* | A comprehensive web platform hosting over 50+ developer and daily utility tools.<br>• **Features:** PDF Converters, Image Tools, Code Formatters, all running client-side for speed.<br>• **Tech:** `React.js` `Next.js` `Node.js` `Tailwind CSS` `Cloudflare` |
-| **🔮 Astrology Service**<br>*(Client Project)* | A specialized platform offering astrological calculations and services.<br>• **Features:** Real-time planetary calculations, Payment Gateway Integration.<br>• **Tech:** `JavaScript` `HTML5` `CSS3` `Netlify Hosting` |
-
----
-
-### 💻 The Ultimate Tech Stack
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| **Core Languages** | **Frameworks & Libraries** | **Cloud & DevOps** | **Tools & Software** |
+| **Core Engineering** | **Mobile Ecosystem** | **Web & Cloud** | **DevOps & Tools** |
 | :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-### 🏆 GitHub Achievements & Analytics
+### 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyuraj8252&bg_color=0D1117&color=7F52FF&line=7F52FF&point=FFFFFF&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyuraj8252&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0D1117" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyuraj8252&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" />
+    </td>
+  </tr>
+</table>
+</div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -81,31 +92,18 @@ Currently, I am focused on **Advanced Android Development** (handling low-level 
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyuraj8252&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyuraj8252&layout=compact&theme=algolia&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyuraj8252&theme=algolia&hide_border=true" alt="streak stats"/>
-</div>
-
 ---
 
 <div align="center">
   
-### 🤝 Support & Connect
+  <h3>Let's Build Something Incredible Together</h3>
+  
+  <a href="https://buymeacoffee.com/NOVANEXUS">
+    <img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 
-<a href="https://buymeacoffee.com/NOVANEXUS">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhimanyuraj8252&label=PROFILE%20VIEWS&style=flat-square&color=blueviolet)
-
+  <br/><br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Abhimanyuraj8252&label=VISITORS&style=flat-square&color=blueviolet)
+  
 </div>
