@@ -1,71 +1,63 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&pause=1000&color=00F2EA&background=000000&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+ABHIMANYU_RAJ...;%3E+LOADING+ARCHITECT_PROTOCOL...;%3E+STATUS:+BUILDING+THE+FUTURE_;" alt="Futuristic Typing" />
+<div align="center" style="background-color: #000000; padding: 20px; border-bottom: 3px solid #00ff99; background-image: url('https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif'); background-size: cover;">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&pause=1000&color=00FF99&background=00000000&center=true&vCenter=true&width=800&lines=%3E%3E+SYSTEM_OVERRIDE_INITIATED...;%3E%3E+IDENTITY:+ABHIMANYU_RAJ;%3E%3E+STATUS:+ELITE+SYSTEM+ARCHITECT_;" alt="Cyberpunk Header" />
+  </a>
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=25&pause=1000&color=FF0055&background=00000000&center=true&vCenter=true&width=600&lines=Android+Core+%2F%2F+Full+Stack+Ops+%2F%2F+Cybernetics" alt="Sub Header" />
+
 </div>
 
-<h3 align="center">⚡ SYSTEM_ACCESS //: AUTHORIZED ⚡</h3>
+<br/>
 
-<div align="center" style="border: 2px solid #00F2EA; border-radius: 10px; padding: 20px; background-color: #0a0a0a;">
-  <pre align="left">
-<code><span style="color: #00F2EA;">> USER:</span> Abhimanyu Raj
-<span style="color: #00F2EA;">> CLASS:</span> Software Architect | Android Specialist | Full Stack Engineer
-<span style="color: #00F2EA;">> MISSION:</span> Architecting high-performance engines (Echoryn) & scalable SaaS (Quantum Tools).
-<span style="color: #00F2EA;">> LOCATION:</span> The Cloud // India
-<span style="color: #bc13fe;">>_ "I don't just write code; I engineer digital ecosystems."</span></code>
-  </pre>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="20" /> </div>
+
+<div align="center" style="background-color: #0a0a0a; border: 2px solid #FF0055; border-radius: 15px; padding: 15px; box-shadow: 0 0 15px #FF0055;">
+  
+<pre align="left" style="font-family: 'Courier New', monospace; color: #00ff99;">
+<code><span style="color: #FF0055;">[root@abhimanyu ~]#</span> cat expertise.log
+
+<span style="color: #00ff99;">> TARGET:</span> High-Performance Distributed Systems & Low-Level Android Architecture.
+<span style="color: #00ff99;">> CURRENT_OPS:</span> Architecting 'Echoryn' (4K Media Engine) & 'Quantum' (SaaS Grid).
+<span style="color: #00ff99;">> PHILOSOPHY:</span> "I don't build apps. I engineer digital weaponry."
+<span style="color: #FF0055;">>_ // READY FOR DEPLOYMENT.</span></code>
+</pre>
 
   <p align="center">
-    <a href="https://github.com/Abhimanyuraj8252">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F2EA&labelColor=black" />
-    </a>
-    <a href="https://www.linkedin.com/in/abhimanyu-raj-8a853a32a">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F2EA&labelColor=black" />
-    </a>
-    <a href="https://instagram.com/sudo_abhimanyu">
-      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=bc13fe&labelColor=black" />
-    </a>
-    <a href="mailto:abhimanyuraj134@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0055&labelColor=black" />
-    </a>
+    <a href="https://github.com/Abhimanyuraj8252"><img src="https://img.shields.io/badge/GITHUB-LINK_ESTABLISHED-000000?style=for-the-badge&logo=github&logoColor=00ff99&labelColor=black&color=00ff99"/></a>
+    <a href="https://www.linkedin.com/in/abhimanyu-raj-8a853a32a"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT_SECURE-000000?style=for-the-badge&logo=linkedin&logoColor=00aaff&labelColor=black&color=00aaff"/></a>
   </p>
 </div>
 
----
+<br/>
 
-### 🚀 <span style="color: #00F2EA;">TECHNICAL ARSENAL</span>
+<h3 align="center">⚡ <span style="color: #00ff99; background-color: #000; padding: 5px;">CYBERNETIC_AUGMENTATIONS</span> ⚡</h3>
 
-<div align="center">
-  
-| **<span style="color: #bc13fe;">CORE MODULES</span>** | **<span style="color: #00F2EA;">MOBILE SYSTEMS</span>** | **<span style="color: #FF0055;">WEB MATRIX</span>** | **<span style="color: #F7E018;">DEVOPS CLOUD</span>** |
+<div align="center" style="background-color: #000; padding: 20px; border: 1px solid #00aaff; box-shadow: inset 0 0 20px #00aaff;">
+
+| **<span style="color: #FF0055;">CORE_LOGIC</span>** | **<span style="color: #00ff99;">MOBILE_FRAME</span>** | **<span style="color: #00aaff;">WEB_MATRIX</span>** | **<span style="color: #F7E018;">INFRASTRUCTURE</span>** |
 | :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black) | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![NextJS](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Java](https://img.shields.io/badge/JAVA_CORE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black&labelColor=ED8B00) | ![Android](https://img.shields.io/badge/ANDROID_OS-3DDC84?style=for-the-badge&logo=android&logoColor=black&labelColor=3DDC84) | ![React](https://img.shields.io/badge/REACT_UI-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=20232a) | ![Docker](https://img.shields.io/badge/DOCKER_CONT-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED) |
+| ![Kotlin](https://img.shields.io/badge/KOTLIN_NATIVE-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=7F52FF) | ![Flutter](https://img.shields.io/badge/FLUTTER_HYBRID-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B) | ![NextJS](https://img.shields.io/badge/NEXT_SSR-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000) | ![Linux](https://img.shields.io/badge/LINUX_KERNEL-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624) |
 
 </div>
 
----
+<h3 align="center">📡 <span style="color: #FF0055; background-color: #000; padding: 5px;">SYSTEM_CORE_ACTIVITY</span> 📡</h3>
 
-### 📡 <span style="color: #bc13fe;">SYSTEM METRICS</span>
-
-<div align="center">
+<div align="center" style="background-color: #0a0a0a; border: 2px solid #00ff99; padding: 10px;">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyuraj8252&bg_color=0a0a0a&color=bc13fe&line=00F2EA&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://i.pinimg.com/originals/e1/32/07/e13207695943936dc53f35227238f506.gif" width="100%" height="250" style="opacity: 0.8;" />
   
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyuraj8252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0a0a" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyuraj8252&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="160" />
+  <br/>
+  <p style="color: #00ff99; font-family: monospace;">> MONITORING_GLOBAL_NETWORKS... // TRAFFIC: HIGH_</p>
 
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=5&section=footer" width="100%" />
-  <br/>
-  <p style="color: #00F2EA; font-family: monospace;">> END_TRANSMISSION_</p>
-
-  <a href="https://buymeacoffee.com/NOVANEXUS">
-    <img src="https://img.shields.io/badge/FUEL_MY_SYSTEM-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=black" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff99&height=3&section=footer" width="100%" />
+  <p style="color: #FF0055; font-family: 'Orbitron', monospace; letter-spacing: 2px;">>> END_OF_LINE_</p>
 </div>
